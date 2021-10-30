@@ -11,6 +11,7 @@ function Header (props) {
         padding: "8px",
         width:"90%",
         margin: "auto",
+       
     }
     return (
        <header>

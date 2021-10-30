@@ -3,7 +3,7 @@
 function Footer(props) {
  return (
 
-     <h1>Footer</h1>
+     <h1>Content goes here</h1>
  )
 }
 
